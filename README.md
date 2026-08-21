@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Higor Rodrigues Silva 👋</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Explorando+Low-Code%2C+No-Code+e+Programa%C3%A7%C3%A3o;Transformando+curiosidade+em+aprendizado+constante;Organizando+minha+jornada+em+tecnologia" alt="Typing SVG" /> </p>
-🎓 Estudante de Sistemas de Informação (2º semestre),
- Explorando diferentes caminhos da tecnologia: da programação tradicional ao Low-Code/No-Code
+🎓 Estudante de Sistemas de Informação (2º semestre)
+💻 Explorando diferentes caminhos da tecnologia: da programação tradicional ao Low-Code/No-Code
 🎨 Interessado em unir design de interface com desenvolvimento funcional
  Ainda decidindo minha especialização — aproveitando a faculdade para testar áreas diferentes
 🎯 Foco atual: organizar meus projetos e construir um portfólio consistente
