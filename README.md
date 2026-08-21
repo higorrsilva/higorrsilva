@@ -1,11 +1,10 @@
 <h1 align="center">Olá, eu sou o Higor Rodrigues Silva 👋</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Explorando+Low-Code%2C+No-Code+e+Programa%C3%A7%C3%A3o;Curioso+por+natureza%2C+aprendendo+na+pr%C3%A1tica;Organizando+minha+jornada+em+tecnologia" alt="Typing SVG" /> </p> <p align="center"> <a href="https://linkedin.com/in/higor-rodrigues-492935346"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:rodrigueshigorsilvaa@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
-Sobre mim,
-sou Estudante de Sistemas de Informação (2º semestre)
-🧩 Explorando diferentes caminhos da tecnologia: da programação tradicional ao Low-Code/No-Code
+🎓 Estudante de Sistemas de Informação (2º semestre)
+  Explorando diferentes caminhos da tecnologia: da programação tradicional ao Low-Code/No-Code
 🎨 Interessado em unir design de interface com desenvolvimento funcional
 📚 Ainda decidindo minha especialização — aproveitando a faculdade para testar áreas diferentes
 🎯 Foco atual: organizar meus projetos e construir um portfólio consistente
-🛠️ Tecnologias e Ferramentas
+  Tecnologias e Ferramentas
 <p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/FlutterFlow-2F80ED?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Xano-6C4FF6?style=for-the-badge" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </p>
 📌 Projetos em destaque
 🍔 SLFood
