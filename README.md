@@ -8,11 +8,7 @@
 
 ### 🧭 Sobre mim
 
-- 🎓 Estudante de **Sistemas de Informação** (2º semestre)
-- 🧩 Explorando diferentes caminhos da tecnologia: da programação tradicional ao Low-Code/No-Code
-- 🎨 Interessado em unir **design de interface** com **desenvolvimento funcional**
-- 📚 Ainda decidindo minha especialização — aproveitando a faculdade para testar áreas diferentes
-- 🎯 Foco atual: organizar meus projetos e construir um portfólio consistente
+🎓 Estudante de **Sistemas de Informação** (2º semestre) 🧩 Explorando diferentes caminhos da tecnologia: da programação tradicional ao Low-Code/No-Code 🎨 Interessado em unir **design de interface** com **desenvolvimento funcional** 📚 Ainda decidindo minha especialização — aproveitando a faculdade para testar áreas diferentes 🎯 Foco atual: organizar meus projetos e construir um portfólio consistente
 
 ---
 
